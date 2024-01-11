@@ -6,7 +6,7 @@ python-slugify==8.0.1
 asyncpg==0.26.0
 loguru==0.6.0
 aiosql==5.0
-bcrypt==3.2.2
+bcrypt==4.1.2
 passlib==1.7.4
 pydantic[email]==2.5.3
 pyjwt==2.4.0

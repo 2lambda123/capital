@@ -13,6 +13,6 @@ pyjwt==2.8.0
 pypika==0.48.9
 slugify==0.0.1
 pydantic[dotenv]==2.5.3
-pydantic==1.9.1
+pydantic==2.6.3
 alembic==1.13.1
 psycopg2-binary==2.9.9

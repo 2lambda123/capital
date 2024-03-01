@@ -5,7 +5,7 @@ databases==0.6.0
 python-slugify==8.0.3
 asyncpg==0.29.0
 loguru==0.7.2
-aiosql==9.4
+aiosql==9.5
 bcrypt==4.1.2
 passlib==1.7.4
 pydantic[email]==2.5.3
